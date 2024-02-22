@@ -1,0 +1,15 @@
+discord.py # Replace x.x.x with the version you want to use
+python-dotenv # Replace x.x.x with the version you want to use
+jokeapi # Replace x.x.x with the version you want to use
+Pillow # Replace x.x.x with the version you want to use
+requests # Replace x.x.x with the version you want to use
+rembg # Replace x.x.x with the version you want to use
+spire # Replace x.x.x with the version you want to use
+duckduckgo-search # Replace x.x.x with the version you want to use
+googlesearch-python # Replace x.x.x with the version you want to use
+google-generativeai
+Spire.Doc
+plum-dispatch==1.7.4
+duckduckgo_search
+py-cord==2.0.0b1
+
