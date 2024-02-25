@@ -249,7 +249,7 @@ async def on_message(message):
                 if response.status_code == 200:
                     parsed_url = urlparse(image_url)
                     file_extension = os.path.splitext(parsed_url.path)[1]
-                    filename = f"downloaded_image{file_extension}"
+                    filename = f"local_image{file_extension}"
                     # Save the image to the local file
                     with open(filename, 'wb') as thefile:
                         thefile.write(response.content)
